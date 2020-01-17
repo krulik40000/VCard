@@ -11,4 +11,4 @@ localhost:8080/download/{fullName}
 METODA		ŻADANIE						      ODPOWIEDŹ
 GET				/							          Wyświetla stronę z formularzem wyszukiwania pracowników
 GET				/search?{name}		      Wyświetla stronę z listą pracowników
-GET       /download/{fullName}    Generuje oraz rozpoczyna pobieranie pliku vcf z danymi wybrajnej osoby
+GET       /download/{fullName}    Generuje oraz rozpoczyna pobieranie pliku vcf z danymi wybrajnej osoby 
